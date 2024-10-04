@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shruti Gupta
 - 🌱 I’m currently learning Machine learning and Deep learning
-- 📫 You can reach me through my email- shr.197575@gmail.com
+- 📫 You can reach me through my email- shrutigupta.cse37@gmail.com
   
 
 <!---
