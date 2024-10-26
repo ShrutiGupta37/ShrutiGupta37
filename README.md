@@ -1,8 +1,8 @@
 
-![MaterHead](https://github.com/user-attachments/assets/3b9d975b-8362-4ce5-88b7-8b96e9551dc0)
+![MaterHead](https://github.com/user-attachments/assets/5fa8a837-603e-4acf-975f-768378a84dff)
 <h1 align="center">Hi there👋, I'm Shruti Gupta</h1>
 <h3 align="center">&<br/>I love coding ❤️</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif">
 
 
 - 🌱 I’m currently learning **Deep Learning** & little bit **Web-Dev**
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shruti-gupta-32134b268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shruti-gupta-32134b268" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shruti-gupta-32134b268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shruti-gupta-32134b268" height="30"width="40" /></a>
 <a href="https://www.hackerrank.com/@shr_197575" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shr_197575" height="30" width="40" /></a>
 </p>
 
