@@ -5,11 +5,13 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif">
 
 
-- 🌱 I’m currently learning **Deep Learning** & little bit **Web-Dev**
+## About Me
+- 🎓 I'm a CSE'26 student.
+- 🧠 Currently exploring Machine Learning and Deep Learning
+- 🌱 Learning HTML and CSS to enhance my web development skills
+- 🚀 Always eager to gain knowledge and collaborate on exciting projects
+  
 
-- 📫 You can reach me through my email- **shrutigupta.cse37@gmail.com**
-
-- ⚡ Fun fact: **you can read 🙀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
