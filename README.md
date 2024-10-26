@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shruti Gupta</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shrutigupta37&label=Profile%20views&color=0e75b6&style=flat" alt="shrutigupta37" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrutigupta37" alt="shrutigupta37" /></a> </p>
+<h3 align="center">I'm a passionate Python Developer</h3>
 
 - 🌱 I’m currently learning **Deep Learning**
 
 - 📫 How to reach me **shrutigupta.cse37@gmail.com**
+
+- ⚡ Fun fact **I like cats 🙀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
