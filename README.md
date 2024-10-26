@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Shruti Gupta</h1>
-<h3 align="center">I'm a passionate Python Developer</h3>
 
-- 🌱 I’m currently learning **Deep Learning**
+![MaterHead](https://github.com/user-attachments/assets/3b9d975b-8362-4ce5-88b7-8b96e9551dc0)
+<h1 align="center">Hi there👋, I'm Shruti Gupta</h1>
+<h3 align="center">&<br/>I love coding ❤️</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif">
 
-- 📫 How to reach me **shrutigupta.cse37@gmail.com**
 
-- ⚡ Fun fact **I like cats 🙀**
+- 🌱 I’m currently learning **Deep Learning** & little bit **Web-Dev**
+
+- 📫 You can reach me through my email- **shrutigupta.cse37@gmail.com**
+
+- ⚡ Fun fact: **you can read 🙀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,6 +22,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutigupta37&show_icons=true&locale=en&layout=compact" alt="shrutigupta37" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrutigupta37&show_icons=true&locale=en" alt="shrutigupta37" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrutigupta37&" alt="shrutigupta37" /></p>
