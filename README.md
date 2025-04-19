@@ -5,7 +5,7 @@
 
 ## About Me
 - 🎓 I'm a CSE'26 student
-- 🧠 Currently exploring Machine Learning and Deep Learning
+- 🧠 Currently exploring Biomedical Image Segmentation using U-net 
 - 🌱 Learning HTML and CSS to enhance my web development skills
 - 🚀 Always eager to gain knowledge and collaborate on exciting projects
   
