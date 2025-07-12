@@ -57,7 +57,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=ShrutiGupta37&show_icons=true&theme=radical" width="350" alt="Shruti's GitHub stats" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ShrutiGupta37&theme=radical&hide_border=true" width="350" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShrutiGupta37&theme=radical" width="350" alt="GitHub Streak" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiGupta37&layout=compact&theme=radical" width="300" alt="Top Languages" />
 
