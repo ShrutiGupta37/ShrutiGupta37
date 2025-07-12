@@ -10,13 +10,13 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 I'm a CSE'26 student  
-- 🧠 Currently exploring Biomedical Image Segmentation using U-Net  
-- 🌱 Learning HTML & CSS to enhance my frontend development skills  
-- 🚀 Passionate about building ML models and creative frontend projects  
-- 🤝 Eager to collaborate on impactful tech projects  
+- I'm a CSE'26 student  
+- Currently exploring Biomedical Image Segmentation using U-Net  
+- Learning HTML & CSS to enhance my frontend development skills  
+- Passionate about building ML models and creative frontend projects  
+- Eager to collaborate on impactful tech projects  
 
----
+
 
 ## 🔗 Connect with Me
 
@@ -29,18 +29,18 @@
   </a>
 </p>
 
----
+
 
 ## 🛠️ Tech Stack
 
-### 👩‍💻 Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 📚 Libraries & Tools
+### Libraries & Tools
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
@@ -51,15 +51,17 @@
 
 
 
-## 📈 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShrutiGupta37&show_icons=true&theme=radical" alt="Shruti's GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShrutiGupta37&theme=radical" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiGupta37&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=ShrutiGupta37&show_icons=true&theme=radical" width="350" alt="Shruti's GitHub stats" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ShrutiGupta37&theme=radical&hide_border=true" width="350" alt="GitHub Streak" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiGupta37&layout=compact&theme=radical" width="300" alt="Top Languages" />
+
+</div>
 
 
 
