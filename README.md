@@ -1,6 +1,6 @@
 ![Header](https://github.com/user-attachments/assets/bf3992a8-c763-4e39-ad32-2e0e1dff3123)
 
-<h1 align="center">Hi there 👋, I'm Shruti Gupta</h1>
+<h1 align="center">Hi there 👋, I'm Shruti</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Machine+Learning+%7C+Deep+Learning+%7C+AI;Python+%7C+Data+Science+%7C+Frontend+Developer;Problem+Solver+%7C+Quick+Learner+%7C+Team+Player" alt="Typing SVG" />
